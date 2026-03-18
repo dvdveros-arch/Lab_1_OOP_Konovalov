@@ -10,5 +10,7 @@ class Program
         Console.WriteLine($"I greet you, flesh interpretation of intelligence, {name}");
 
         Console.WriteLine($"Are you afraid of God's wrath, {name}?");
+
+        Console.WriteLine($"(𓁹 𓁹)");
     }
 }
